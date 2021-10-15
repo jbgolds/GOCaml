@@ -1,0 +1,1 @@
+Though we are below the 2000 line thresh hold, the code that is written was advanced. We corresponded multiple times with our PM to help build our AI. This was done without ML based packages and training which made the development and understanding time consuming for our entire group. Moreover, we spent a lot of time making sure the terminal GUI was user friendly. 
