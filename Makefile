@@ -12,6 +12,7 @@ default: build
 install:
 	opam update
 	opam upgrade
+	opam install ounit2
 	opam install cohttp-lwt-unix
 	opam install lwt logs extlib
 	opam install ANSITerminal
